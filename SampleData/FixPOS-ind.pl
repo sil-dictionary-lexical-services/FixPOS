@@ -4,7 +4,7 @@
 use utf8;
 use open qw/:std :utf8/;
 
-# FixPOS-NNN.pl < infile.db > outfile.db
+# FixPOS-ind.pl < infile.db > outfile.db
 
 # (Make a copy of this file, and in the copy replace the NNN in the filename
 # with the language code for the language you will apply this to.  Then 
@@ -82,12 +82,12 @@ while ($line = <>) {
 		elsif ($orig_ps =~ /^intj/ || $orig_ps =~ /^excl/) {
 			$psn = "interj";
 			}
-		elsif ($orig_ps =~ /^part/) {
-			$psn = "prt";
+		elsif ($orig_ps =~ /^[Aa]dj/) {
+			$psn = "adj";
 			}
 		# It would be better to adjust the Category "Connective" in FLEx.
 		# Change its Name to "Conjunction" and its Abbreviation to "conj".
-		elsif ($orig_ps =~/^conj/) {
+		elsif ($orig_ps =~/^[Cc]onj/) {
 			$psn = "conn";
 			}
 		# END OF PATTERNS TO EDIT

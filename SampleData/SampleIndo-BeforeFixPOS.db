@@ -1,0 +1,229 @@
+\_sh v3.0  400  MDF 4.0
+
+\lx sedikit
+\sn 1
+\ps quan
+\ge few
+\re few
+\dt 04/May/2020
+
+\lx kecil
+\sn 1
+\ps Adj
+\ge small
+\re small
+\dt 04/May/2020
+
+\lx dan
+\sn 1
+\ps Conj
+\ge and
+\re and
+\dt 04/May/2020
+
+\lx men-
+\sn 1
+\ps v
+\ge 
+\re
+\dt 01/May/2020
+
+\lx -an
+\sn 1
+\ps adj
+\ge
+\re
+\dt 01/May/2020
+
+\lx besar
+\sn 1
+\ps adj
+\ge big
+\re big
+\dt 04/May/2020
+
+\lx kedinginan
+\cf dingin
+\sn 1
+\ps Adj.
+\ge cold
+\re cold
+\sn 2
+\ps Adj.
+\ge coldness
+\re coldness; cold
+\dt 04/May/2020
+
+\lx tengah hari
+\ct comp. of
+\mn hari
+
+\lx hari
+\sn 1
+\ps n
+\ge day
+\re day
+\dt 04/May/2020
+\se tengah hari
+\cet comp.
+\sn 1
+\ge noon
+\re noon
+
+\lx makan
+\sn 1
+\ps v
+\ge eat
+\re eat
+\xv Setiap pagi utuk sarapan dan makan nasi goreng.
+\xe Every morning I eat fried rice for breakfast.
+\xv Dua rebus telur ia makan sarapan.
+\dt 04/May/2020
+
+\lx orang
+\hm 1
+\sn 1
+\ge CLF.person
+\dt 19/Jan/2015
+
+\lx orangtua
+\ct der. of
+\mn orang2
+
+\lx orang
+\hm 2
+\sn 1
+\ps n
+\ge person
+\re person
+\xv Berapa banyak orang di keluarga anda?
+\xe How many people are in your family?
+\sn 2
+\ps n
+\ge man
+\re man
+\xv Orang yang berjalan-jalan di hutan.
+\xe The man is walking in the woods.
+\sn 3
+\ps class
+\ge CLF-hum
+\de Classifier used on nouns referring to people.
+\xv Kakek saya adalah seorang pria tua.
+\xe My grandfather is an old man.
+\dt 04/May/2020
+\se orang orang
+\cet plder.
+\va orangorang
+\vet sp. var. of
+\sn 1
+\se orangtua
+\cet der.
+\sn 1
+\ps n
+\ge parent
+\re parent
+\xv Saya akan memberikan untuk saya orangtua di usia tua.
+\xe I will provide for my parents in their old age.
+
+\lx orangorang
+\vt sp. var.
+\mn orang orang
+\dt 18/Nov/2014
+
+\lx tellur
+\vt sp. var.
+\mn telur
+\dt 04/Sep/2014
+
+\lx kucing
+\co Cats are perhaps the oldest domesticated animals.  Even as far back as ancient Egypt, they were known to be household pets.
+\sn 1
+\ps n
+\ge feline
+\de a four-footed mammal with whiskers
+\re feline
+\xv Bibi saya, kucing hitam.
+\xe My aunt has a black cat.
+\gen binatang
+\sn 2
+\ps n
+\ge cat species
+\de one of many wild animals in the cat family
+\re cat species
+\xv Harimau, singa, dan macan kumbang kucing semua besar.
+\xe Tigers, lions, and panthers are all big cats.
+\dt 04/May/2020
+
+\lx orang orang
+\ct plder. of
+\mn orang2
+
+\lx dingin
+\cf kedinginan
+\sn 1
+\ps adj; n
+\ge cold
+\re cold
+\xv Cuaca sangat dingin di musim dingin.
+\xe The weather is very cold in winter.
+\an panas
+\dt 04/May/2020
+
+\lx panas
+\sn 1
+\ps adj
+\ge hot
+\re hot
+\xv Cuacanya sangat panas di siang hari.
+\xe The weather is very hot at noon.
+\an dingin
+\dt 04/May/2020
+
+\lx telur
+\va tellur
+\vet sp. var. of
+\sn 1
+\ps n
+\ge egg
+\re egg
+\xv Dua rebus telur ia makan sarapan.
+\xe She ate two boiled eggs for breakfast
+\wh burung
+\dt 04/May/2020
+
+\lx burung
+\sn 1
+\ps n
+\ge bird
+\re bird
+\pt telur
+\gen binatang
+\dt 04/May/2020
+
+\lx binatang
+\co This is a cover term for all animals.  Different cultures have different ideas about what creatures are "animals".  Some cultures don't include fish or insects.
+\sn 1
+\ps n
+\ge animal
+\re animal
+\xv Salah satu dari beberapa kucing adalah hewan peliharaan.
+\xe Cats are one of the few domesticated animals.
+\spec kucing 1
+\spec burung
+\spec ikan
+\dt 04/May/2020
+
+\lx daham
+\sn 1
+\ps excl
+\ge ahem
+\re
+\dt 04/May/2020
+
+\lx ikan
+\sn 1
+\ps n
+\ge fish
+\re fish
+\gen binatang
+\dt 04/May/2020

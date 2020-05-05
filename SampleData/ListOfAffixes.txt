@@ -1,0 +1,5 @@
+Affixes found:
+(In FLEx, Part of Speech has a different meaning for affixes than stems.
+Thus, the ps field has been made empty for these affixes for the FLEx import.
+men- was originally \ps v
+-an was originally \ps adj
