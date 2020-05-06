@@ -14,12 +14,16 @@ LOGFILES:
  * ListOfAffixes.txt: lists the affixes that were found in the database,
  since they won't be assigned any POS.  Verify that these are truly affixes.
 
-SAMPLE FILES:
+SAMPLE FILES (in SampleData folder):
   * Sample input:	SampleIndo-BeforePOS.db
-  * Sample output:	SampleIndo-AfterPOS.db
 
 SAMPLE USAGE:
   * ./FixPOS-NNN.pl < SampleIndo-BeforePOS.db > SampleIndo-AfterPOS.db
+
+EXPECTED OUTPUT (in ExpectedOutput folder):
+ * SampleIndo-AfterPOS.db
+ * poslog.txt
+ * ListOfAffixes.txt
 
 ----------
 NOTES
